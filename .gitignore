@@ -1,0 +1,16 @@
+# DO NOT TRACK API KEYS
+config/keys.py
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+env/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db

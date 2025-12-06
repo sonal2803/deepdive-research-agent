@@ -1,0 +1,12 @@
+streamlit
+requests
+beautifulsoup4
+tavily-python
+sentence-transformers
+scikit-learn
+numpy
+groq
+fpdf
+reportlab
+torch
+transformers
